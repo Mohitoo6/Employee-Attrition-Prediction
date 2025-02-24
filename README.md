@@ -82,10 +82,6 @@ python model_training.py
 5️⃣ **Review HR Report**
 Check `hr_attrition_report.pdf` for insights and recommendations.
 
-## **Future Improvements**
-🚀 **Deploy Model with Flask API:** Develop an interactive dashboard for HR teams to predict attrition in real-time.
-📊 **Try Advanced ML Models:** Use Random Forest, XGBoost, or Neural Networks for improved accuracy.
-📌 **HR Intervention Simulator:** Build a tool that suggests retention strategies based on an employee's attrition risk.
 
 ## **Contributors**
 - **Your Name** - Mohit Kumar
